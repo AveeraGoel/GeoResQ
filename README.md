@@ -1,7 +1,7 @@
 # 🌍 GeoResQ
 
 ## Disaster Risk Intelligence & Multi-Hazard Mapping
-
+https://georesq.streamlit.app/
 GeoResQ is a satellite-based disaster risk intelligence platform designed to analyze and visualize disaster risk using Earth observation and geospatial datasets.
 
 ### 🚨 Problem Domain
